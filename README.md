@@ -1,6 +1,6 @@
 # Development board for the ATtiny44A MCU
 
-This is a sismple board for experimenting with Microchip's ATtiny44A
+This is a simple board for experimenting with Microchip's ATtiny44A
 8 bit microcontroller.
 
 Main characteristics:
