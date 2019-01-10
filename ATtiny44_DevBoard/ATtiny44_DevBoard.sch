@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:ATtiny44_DevBoard-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -64,7 +63,7 @@ U 1 1 5C3208CB
 P 3100 5700
 F 0 "Y1" V 3054 5831 50  0000 L CNN
 F 1 "Crystal 12MHz" V 3145 5831 50  0000 L CNN
-F 2 "Crystal:Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm_HandSoldering" H 3100 5700 50  0001 C CNN
+F 2 "Crystal:Crystal_HC49-U_Vertical" H 3100 5700 50  0001 C CNN
 F 3 "~" H 3100 5700 50  0001 C CNN
 	1    3100 5700
 	0    1    1    0   
@@ -127,7 +126,7 @@ Text Label 3650 5300 0    50   ~ 0
 XTAL1
 Text Label 3650 6100 0    50   ~ 0
 XTAL2
-Text Notes 2650 6450 0    50   ~ 0
+Text Notes 2650 6550 0    50   ~ 0
 Max speed @3.3V: 12.8MHz
 Wire Wire Line
 	4750 2350 5750 2350
@@ -517,4 +516,6 @@ Wire Wire Line
 	8750 5300 8300 5300
 Text Label 6300 5000 0    50   ~ 0
 ~RESET
+Text Notes 2650 6650 0    50   ~ 0
+Max speed @5V: 16MHz\n
 $EndSCHEMATC

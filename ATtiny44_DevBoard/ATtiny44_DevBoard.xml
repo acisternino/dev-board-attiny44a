@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>D:\Private\hw\dev-board-attiny44a\ATtiny44_DevBoard\ATtiny44_DevBoard.sch</source>
-    <date>09/01/2019 14:36:04</date>
+    <date>10/01/2019 10:08:52</date>
     <tool>Eeschema (5.0.2)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -53,7 +53,7 @@
     </comp>
     <comp ref="Y1">
       <value>Crystal 12MHz</value>
-      <footprint>Crystal:Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm_HandSoldering</footprint>
+      <footprint>Crystal:Crystal_HC49-U_Vertical</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
       <sheetpath names="/" tstamps="/"/>

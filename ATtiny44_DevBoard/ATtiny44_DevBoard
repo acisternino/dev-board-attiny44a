@@ -8,4 +8,4 @@ J1 J3 ,2,"Conn_01x08","Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertica
 R1 ,1,"1k","Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder","~"
 R2 ,1,"22k","Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder","~"
 U1 ,1,"ATtiny44A-SSU","Package_SO:SOIC-14_3.9x8.7mm_P1.27mm","http://ww1.microchip.com/downloads/en/DeviceDoc/doc8183.pdf"
-Y1 ,1,"Crystal 12MHz","Crystal:Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm_HandSoldering","~"
+Y1 ,1,"Crystal 12MHz","Crystal:Crystal_HC49-U_Vertical","~"
